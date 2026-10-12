@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979817595841",
+    "restype": "watchface",
+    "name": "分度",
+    "description": "来源于温度计，温度 - 两位数字，右上角一枚小圈，分度 - 分钟大数字，秒针是一个圈。时针数字垫底。",
+    "preview": [
+      "media/poster-1_结果.png",
+      "media/poster-2_结果.png",
+      "media/poster-3_结果.png"
+    ],
+    "icon": "media/face-active-256.png",
+    "cover": "media/cover-type_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top/",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.0.0",
+      "file_name": "downloads/FenDu13.bin",
+      "versionCode": 0
+    },
+    "xmrw5xring": {
+      "version": "0.0.0",
+      "file_name": "downloads/FenDu13.bin",
+      "versionCode": 0
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/FenDu13.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
