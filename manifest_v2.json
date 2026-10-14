@@ -32,9 +32,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/FenDu13.bin",
-      "versionCode": 0
+      "versionCode": 1
     }
   },
   "ext": {}
